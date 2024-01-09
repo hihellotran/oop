@@ -1,0 +1,8 @@
+Cho 1 lớp nhân viên có các thuộc tính : tên, tuổi, lương, năm sinh, giờ làm 
+ 
+2 lớp nhân viên thời vụ, nhân viên toàn thới gian kế thừa lớp nhân viên viết hàm tính thu nhập của 2 lớp này biết thu nhập cuẩ nhân viên thời vụ băng lương *1,2 và toàn thời gian là 1,5
+
+a.Cho 1 danh sách các nhân viên 
+b.Tính tổng thu nhập của nhân viên thời vụ 
+c.Tính tổng thu nhập của tất cả nhân viên
+d.In ra tất cả nhân viên toàn thời gian có năm sinh > 2000

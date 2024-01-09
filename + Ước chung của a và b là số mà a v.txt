@@ -1,0 +1,29 @@
++ Ước chung của a và b là số mà a và b đều chia hết.
++ ước chung lớn nhất của a và b là số 'lớn nhất' mà a và đều chia hết.
+
+
+ví dụ a=8, b=32;
+
+
+1 /
+2 /
+3 X
+4 /
+5 X
+6 X
+7 X
+8 / chọn
+
+
+
+1/2  3/4   2/5  6/8  10/15
+
+psln=1/2
+
+giatricuapsdangxet=3/4=0.75
+giatricuapsln=1/2=0.5
+
+
+
+
+
