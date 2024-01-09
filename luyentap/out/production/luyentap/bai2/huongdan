@@ -1,0 +1,158 @@
+1 9 7 10 5 6 2
+=> 1 2 5 6 7 9 10
+
+tổng nhỏ nhất có phải là tổng của 4 số nhỏ nhất: 1 2 5 6
+tổng lớn nhất có phải là tổng cảu 4 số lớn nhất: 6 7 9 10
+
+1 2 3 4 5
+1 2 3 4
+1 3 4 5
+
+A[1 2 3 4 5]
+for 1 -> 5
+tại i=0; A[i]=1
+    thử th tổng 4 số mà ko có A[i]=1
+    => 14
+tại i=1; A[i]=2
+    thử th tổng 4 số mà ko có A[i]=2
+    => 13
+
+
+
+
+
+
+
+
+sum=0
+i = 0
+thỏa dòng 56
+    sum=0;
+i = 1
+ko thỏa dòng 56
+
+i = 2
+ko thỏa dòng 56
+
+i = 3
+ko thỏa dòng 56
+
+i=4
+ko thỏa dòng 56
+
+i=5
+thỏa dòng 56
+    sum = 5
+
+i=6
+ko thỏa 56
+
+i=7
+ko thỏa 56
+
+i=8
+ko thỏa 56
+
+i=9
+ko thỏa 56
+
+i=10
+thỏa dòng 56
+    sum=15
+
+
+i = 0
+thỏa đk
+    sum=0
+i=5
+thỏa đk
+    sum=5
+
+i=10
+thỏa đk
+    sum+=15
+
+
+
+ n=6071
+ temp=n/10^3=6
+ ketqua=temp*10;=> ket qua =60
+ n = 071
+
+ temp=n/10^2 =0.71
+ kết quả = kết quả (60) +0*10= 60
+
+ n = 71
+ temp=n/10 = 7.1 // dư 1
+ kết quả = kết quả(60)*10 +7 =607
+
+ kết quả = kết quả(607)*10 +1 = 6071
+
+ // làm ngược r là sao
+ call đi // laptop mat mang roi , pc ko mic
+ đth đâu // dang sạc
+ lúc nào cũng z chắc bận nt với gái
+ // cc đang sạc ko tin à
+mượn nick tán gái đc k
+vô đi
+lỡ tán nó đổ thì sao
+trap boy
+xạo
+tán nó đổ xong kiu nó gửi ảnh nude cho coi
+ok k
+bth
+coi ảnh nude ko ?
+đéo
+coi ảnh gái chứ k coi ảnh trai đâu
+mất ngủ đó
+mốt t cho m coi con **
+bớt dơ đi
+chán chưa
+chưa
+mượn nick tán gái nha
+tùy em có gì anh báo công an
+tán gái đẹp nó chịu gặp thì sao
+trốn
+xạo
+rủ nó vô ks chứ dễ gì
+???????
+thôi mai học tiếp nha
+laptop may ket noi r
+30p nx lấy dth
+chi
+call
+mai dậy sớm r
+5h dậy đi hành hương r
+ok v ngủ đi
+mai học tiếp
+hết buồn chưa
+chưa
+t6 bù cho
+bù gì
+bù đắp
+dơ
+thôi ngủ nha mai đi dạy kèm
+9h
+giàu quá đi
+hun cái nè
+:*
+bye
+ê lấy nick cua gái thiệc
+nhathôi ko nha
+sao v
+sợ bị cám dỗ hả
+ko mà ko thích v á
+ko thiích trap
+lỡ bị ngta trap thì sao
+ko có đâu
+gái đẹp là thich
+dau ra
+chu sao
+ngủ đi má
+suy nghĩ gì đâu ko
+ok
+se cố gắng nha
+
+ok sẽ gầy
+coi ko
+gửi cho 

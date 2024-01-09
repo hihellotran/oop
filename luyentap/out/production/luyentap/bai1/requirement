@@ -1,0 +1,24 @@
+-- tính tỉ lệ số lần xuất hiện của dương, âm, 0 trong mảng
+ví dụ : arr[7] :-5 -6 0 1 2 0 -7
+dương = 2 tỉ lệ = 2/7
+âm = 3 tỉ lệ = 3/7
+ko = 2 tỉ lệ = 2/7
+am=0;
+duong=0;
+ko=0;
+i=0: arr[0] = -5
+    dòng 14 thỏa:
+        âm đang =0 thì âm = 1
+        âm = 1/7
+    dòng 18 ko thỏa
+    dòng 23 ko thỏa
+
+i=1: arr[1] = -6
+    dòng 14 thỏa:
+        âm đang bằng =1/7 âm = 8/7
+        âm = 8/49
+    dòng 18 ko thỏa
+    dòng 23 ko thỏa
+
+i=2:
+
